@@ -47,4 +47,5 @@ npm install
 npm run dev
 
 📌 Observações
+
 Este é um projeto de estudo com foco em aprendizado prático. Fique à vontade para clonar, testar e adaptar!
